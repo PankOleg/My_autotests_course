@@ -6,7 +6,7 @@ def modification(lst):
     return lst
 
 # Ниже НИЧЕГО НЕ НАДО ИЗМЕНЯТЬ
-
+#Ничего не менялось
 
 data = [
     [1, 2, 3],
